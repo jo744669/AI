@@ -1,7 +1,6 @@
 #######################################################
-#### MazeGame uses a grid of rows X cols to demonstrate
-#### pathfinding using A*.
-####
+#### Author: Jillian O'Connell
+#### Purpose: To examine A* on a maze with varying alpha and beta values in the evaluation function
 #### AI, Spring 2024
 #######################################################
 import tkinter as tk

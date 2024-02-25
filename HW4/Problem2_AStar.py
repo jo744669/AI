@@ -1,7 +1,7 @@
 #######################################################
-#### MazeGame uses a grid of rows X cols to demonstrate
-#### pathfinding using A*.
-####
+#### Author: Jillian O'Connell
+#### Purpose: To examine A* on a maze with euclidean distance heuristic, diagonal moves allowed,
+#### and moves tested in a randomly selected order each time
 #### AI, Spring 2024
 #######################################################
 import random

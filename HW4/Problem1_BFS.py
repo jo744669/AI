@@ -1,7 +1,6 @@
 #######################################################
-#### MazeGame uses a grid of rows X cols to demonstrate
-#### pathfinding using A*.
-####
+#### Author: Jillian O'Connell
+#### Purpose: To examine Greedy Best First on a maze to observe what path is found from start to goal
 #### AI, Spring 2024
 #######################################################
 import tkinter as tk
